@@ -4,6 +4,9 @@ Code and data for the article entitled:
 
 "A direct ecological benefit of outcrossing in an obligate pathogen" 
 
+### This code is associated with the paper from Laine et al., "Variable opportunities for outcrossing result in hotspots of novel genetic variation in a pathogen metapopulation". eLife, 2019. http://dx.doi.org/10.7554/eLife.47091
+
+
 
 In particular: 
 
